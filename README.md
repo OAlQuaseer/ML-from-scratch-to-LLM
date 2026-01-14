@@ -7,3 +7,5 @@ This repo to follow the ML course taught by this youtube link https://www.youtub
 https://github.com/trekhleb/homemade-machine-learning 
 
 Machine Learning for Python Developers — Implement ML from Scratch (No Black Boxes) https://share.google/Y8lBz22ZkdjS2IUPM
+
+Machine Learning for Beginners https://share.google/fpw7Eg0NS9MqqkOVz
