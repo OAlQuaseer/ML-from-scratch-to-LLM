@@ -9,3 +9,5 @@ https://github.com/trekhleb/homemade-machine-learning
 Machine Learning for Python Developers — Implement ML from Scratch (No Black Boxes) https://share.google/Y8lBz22ZkdjS2IUPM
 
 Machine Learning for Beginners https://share.google/fpw7Eg0NS9MqqkOVz
+
+https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/?fbclid=IwdGRjcAQchGJjbGNrBByBdGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoCnRtd6E0RE9qzmVmsn6HMqhd5LvYkPndIURY8I0qLnMtUozuCo6FFT58PE_aem_wPXyHYR4whSkFgcgr1X0Jw
