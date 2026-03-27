@@ -10,4 +10,6 @@ Machine Learning for Python Developers — Implement ML from Scratch (No Black B
 
 Machine Learning for Beginners https://share.google/fpw7Eg0NS9MqqkOVz
 
-https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/?fbclid=IwdGRjcAQchGJjbGNrBByBdGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoCnRtd6E0RE9qzmVmsn6HMqhd5LvYkPndIURY8I0qLnMtUozuCo6FFT58PE_aem_wPXyHYR4whSkFgcgr1X0Jw
+https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/?fbclid=IwdGRjcAQchGJjbGNrBByBdGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoCnRtd6E0RE9qzmVmsn6HMqhd5LvYkPndIURY8I0qLnMtUozuCo6FFT58PE_aem_wPXyHYR4whSkFgcgr1X0Jw 
+
+https://github.com/HenryNdubuaku/maths-cs-ai-compendium?fbclid=IwdGRjcAQyuWljbGNrBDK5QWZkaWQWUDskFPTNIEdyqgSXTLH0y3Ph7a03x2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsm9Dp7QHNAzQbeWZhht6t9Dr-kUMgWrF7yml5YW5m6nVG2bwJWunU6ZbEjT_aem_7FidlMjarjLZ9nQKSVANiQ
